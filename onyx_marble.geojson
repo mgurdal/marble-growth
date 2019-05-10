@@ -1,0 +1,945 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51140122752781,
+          38.32434083375714,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coşkun Traoniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6162751069175,
+          39.47567797398399,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alacakaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3458909758044,
+          37.20861975965526,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çalışkanerler mermer, Fire oniks-Desert grey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.06205771312623,
+          39.00742430824241,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orhan mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97558368560499,
+          38.63009164186293,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.44941395760131,
+          38.72592512843995,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.46346735413746,
+          40.09862895161789,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Federal M."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4350776413994,
+          38.70141714188165,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73481527234951,
+          39.77389150615098,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özmersan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23368308519368,
+          40.01626687639731,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çiftyıldız"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24215579842333,
+          40.03074656093664,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.43697104104301,
+          38.70601087178106,
+          0
+        ]
+      },
+      "properties": {
+        "name": "İvme mermer, Matrix oniks-Avatar oniks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.89017338557854,
+          38.84059611779912,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harmandalı"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42544943707289,
+          38.70319624629238,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cevher madencilik, Honey oniks-Dark ve light oniks-Malibu-peacockoniks-sky dream oniks-snow leopar oniks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.50949274793001,
+          38.77876249231642,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Monomer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.68837568336669,
+          39.26770672876606,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9593825084178,
+          37.84148668695038,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Saffan mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06269995670964,
+          40.29360488518967,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24474539706535,
+          40.03133067080597,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.50623531272952,
+          41.14534264222392,
+          0
+        ]
+      },
+      "properties": {
+        "name": "? oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.43987799822364,
+          40.39739439735294,
+          0
+        ]
+      },
+      "properties": {
+        "name": "onix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28335699426081,
+          39.40444096240326,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dorak mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51310436364523,
+          38.79114195536406,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ay kardeşler mermer, Cola-Cristal-Jade-Honey-Terracotta oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.43281380611088,
+          38.70457504907522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aba mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.50989935262657,
+          38.78275812940593,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coşkun madencilik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.44639661809378,
+          38.72233100883955,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51126352491207,
+          38.78629984065582,
+          0
+        ]
+      },
+      "properties": {
+        "name": "İvme mermer, Grey oniks-Bubble oniks-Lifora oniks-Velluto oniks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.66765829785096,
+          39.47743550918226,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alimoğlu mermer, Şef oniks-Rainbow oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.59813550291581,
+          39.77180030872862,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.63997429461215,
+          39.47600266163342,
+          0
+        ]
+      },
+      "properties": {
+        "name": "? Akdağ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.63634536024382,
+          39.12372606658285,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yüce marble, White oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02708952742896,
+          38.02154781475057,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hierapolis ocağı Topaz m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.487642452527,
+          39.69270902464903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Esmer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4944730732619,
+          39.69394203668409,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24549187051275,
+          40.46281963539277,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79965955975213,
+          38.7088385924453,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80233334161453,
+          38.70631941905894,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80508270744147,
+          38.70589854110617,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80703381138067,
+          38.70483215106955,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.31291222432411,
+          38.91837547553558,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.31795554478361,
+          38.91976940725292,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.31394796112972,
+          38.91511986795899,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.31640061037099,
+          38.91614651895568,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.31775839403991,
+          38.9184650418008,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9203344689338,
+          38.9991943713291,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.91801672056856,
+          38.99856383162896,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.91564366867659,
+          38.99901501378879,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.91270476226077,
+          39.00216489944642,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06037416186969,
+          40.29569852997731,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06034333329447,
+          40.29396832828802,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06737937957328,
+          40.29556119910009,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06503045481482,
+          40.29384422562558,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.07005449971268,
+          40.29789889653188,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.08736218115573,
+          40.33203295018508,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.04995300930435,
+          38.69545531637437,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Abamer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.46432873447938,
+          39.28016754242303,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nuga mdn traoniksi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.94054512107411,
+          38.83067637460816,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ali Ekşi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34672180593987,
+          39.18954990371269,
+          0
+        ]
+      },
+      "properties": {
+        "name": "4 mevsim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24905039153978,
+          39.99068999245795,
+          0
+        ]
+      },
+      "properties": {
+        "name": "oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96883867080442,
+          39.385572093134,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Balıkesir gül oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97570961356798,
+          38.04131991890036,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Topaz oniks mermer, Tripolis ocağı, Red oniks .(Yüce Marble, Vulkan oniks)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.78125093513653,
+          39.79230226647454,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.70875797645493,
+          39.75343416537784,
+          0
+        ]
+      },
+      "properties": {
+        "name": "sahara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.26727703168682,
+          38.91099520630232,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.26753519747099,
+          38.91059591824196,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.26767804992486,
+          38.91019788190143,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.91403110357187,
+          39.00023514819513,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.28618450704675,
+          38.65290498827156,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Data mdn Uşak oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.00727966116737,
+          39.04888379412342,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Akdağ kızılca oniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33115118875367,
+          38.33618147481669,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Noha mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.34944306927173,
+          38.35196306425748,
+          0
+        ]
+      },
+      "properties": {
+        "name": "noha mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8368437644547,
+          38.57979833935473,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yapelsan mermer, Grey river-White galaxy-Multicolor."
+      }
+    }
+  ]
+}
