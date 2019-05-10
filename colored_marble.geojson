@@ -1,0 +1,1085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.55375370128922,
+          38.19968624579695,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Topaz oniks mermer, Gömce ocağı, Uşak yeşil-Uşak mor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.56223158859114,
+          38.18128225176466,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MP Stone, Euphoria."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28359592139392,
+          38.73877880358382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nurdal Mermer, Kamelyon."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.85194167016416,
+          40.33999556949443,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Erk marble, Brown river."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.77520094146135,
+          38.55971030394318,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kartal Mermer, Calacatta Verde-Uşak yeşil."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.12074511238583,
+          40.04776131118786,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Atılgan mermer (Acamer madencilik), Deep olive."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.07846858450419,
+          37.56741082722798,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ATM mermer, Perfetto brown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1366534623988,
+          37.49698323746586,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başaranlar mermer, Sunset."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87811480419378,
+          38.45598839248128,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alacakaya mermer, Elazığ vişne (Rosso Levanto)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.83264411704966,
+          40.39121841646531,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Geomer mermer, Blue Türk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.88762904582388,
+          37.25602685663087,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege Bordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5219306004473,
+          38.38916053745803,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dolmer madencilik, Verde laguna (Uşak yeşil)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.65730127333232,
+          36.82600222963414,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aymersanmermer, Fethiye rose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.36289347903159,
+          37.13322283542934,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ayem madencilik, Amanos kırmızı (Amanos red)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.87516243747353,
+          37.25648021530226,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege Bordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.87770789086188,
+          37.25524451525065,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege Bordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.87958401743122,
+          37.25560916966623,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege Bordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97398107531478,
+          37.5203355610258,
+          0
+        ]
+      },
+      "properties": {
+        "name": "İnkaya madencilik, İnkaya red-Bordeaux Laguna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3710923715489,
+          37.12950303427877,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ayem madencilik, Amanos kırmızı (Amanos red)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.63180239634067,
+          36.99880501821865,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rentaş Pirtavşan ocağı"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.61400737309849,
+          36.99722491959799,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rentaş Çukuryurt ocağı Teknomerden geçen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.25595616589057,
+          37.13153215424759,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zirve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50789873756762,
+          39.62136968864207,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Temmer marble, Afrodit- Jaguar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5240105520616,
+          39.61675955825425,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Süpren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52760365703895,
+          39.62020542200002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Süpren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.53000993632988,
+          39.61117574624449,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Süpren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48905972922876,
+          39.55471305002668,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48443903520743,
+          39.54925280870528,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salome-Çekiçler mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87399527886561,
+          38.45556859951969,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88094271279093,
+          38.44349460436195,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48559117544108,
+          39.54087249536941,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88036858106418,
+          38.4481130483153,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87728473885347,
+          38.44486082619972,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87562187107724,
+          38.45739489267096,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.59005584999622,
+          39.02246360377401,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mermadin mermercilik madencilik, Ege kahve-Galaksi gri-Ocean Gri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49745813311348,
+          39.53054332173951,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53016303033637,
+          38.92703299326296,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege rose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50090150589701,
+          39.54611272184654,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75493311879576,
+          37.15070132861791,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73375293223178,
+          37.1590618080011,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yılsan mermer, Tarsus kahve."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75841033067183,
+          37.16324999484135,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arı mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76234544496042,
+          37.16685080742772,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73798821959055,
+          37.07247384185848,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52690324499177,
+          39.60945199407303,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Süpren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52543212209024,
+          39.60988010120524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Süpren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52286425190331,
+          39.60970823226729,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Süpren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50693962131918,
+          39.59259300123168,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49840097797216,
+          39.53182487255079,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.42457700611892,
+          37.05733962389679,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49774437127711,
+          39.53423412107,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.76015449366067,
+          37.00593554999488,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.75719761745785,
+          37.00650897327569,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68028250966691,
+          36.88379279432274,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ekol m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.75987994157057,
+          41.31507374569541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rustik Green Acar M."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.34529824529352,
+          41.39290272203103,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karabük brown Acar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.78315668267075,
+          38.56278277637765,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Akman mermer, Uşak yeşil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.92337304097279,
+          37.23271435707392,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Renkmer mermer,Ege Bordo, Rosso laguna, Milas bordo ve Milas ebruli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.92898193632222,
+          37.23230092528708,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege Bordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.92846331311619,
+          37.22769896178779,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege Bordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.748950531648,
+          38.56371778853765,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.58745075236086,
+          38.93232778418156,
+          0
+        ]
+      },
+      "properties": {
+        "name": "İda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57534285781429,
+          38.91596935905791,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zeki Sağlam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.43664381123427,
+          40.55924912815386,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eldivan Kahve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87437574504948,
+          38.45290723219939,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8781792088766,
+          38.44222182116952,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88713509053518,
+          38.45416310405457,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6681608440817,
+          38.38665132485601,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alacakaya Mermer, Kalemdan Ocağı, Elazığ vişne."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.67155131282525,
+          38.38765490668759,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alacakaya Mermer, Kalemdan Ocağı, Elazığ vişne."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.66781892395846,
+          38.3847026837006,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alacakaya Mermer, Kalemdan Ocağı, Elazığ vişne."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72769747996695,
+          38.35737240288442,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kalmer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72587571828286,
+          38.3560318677625,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.13131229668794,
+          37.23577564236113,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79772980064184,
+          36.90475716026724,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ekol Vişne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79539310435862,
+          36.90253228014376,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.90973496769973,
+          37.5531323261308,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başaranlar mermer, Burdur rose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.04115721564936,
+          37.13150485306498,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Enhoş (Rosso ducale)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.71355675227293,
+          37.62066623244436,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Batu Ottoman brown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6916021274581,
+          37.61255166048149,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.68629974471477,
+          37.60965416775181,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.05296359494164,
+          40.46919874097658,
+          0
+        ]
+      },
+      "properties": {
+        "name": "M2 çorum kahve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.13855828749795,
+          40.07972285976678,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nesa mermer Sivas Kirazı"
+      }
+    }
+  ]
+}
