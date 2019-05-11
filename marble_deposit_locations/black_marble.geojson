@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.37815015150558,
+          37.45312048837565,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Erga mermer, Ege gümüş"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.24578447004539,
+          36.47529420851301,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dumlu Özcan madencilik, Medi black-Akdeniz siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.24814942025729,
+          36.4789151298759,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marfam mermer, Alanya siyah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.45901485128631,
+          38.03357803756781,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marimex madencilik, Belevi siyah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7880577479072,
+          39.00999145247059,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alimoğlu mermer, Narcisse siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.21131736082476,
+          38.28622404690788,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aynurlar madencilik, Uşak siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.65299806947004,
+          38.55301461804296,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer mermer, Akşehir siyah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.03414296839698,
+          39.19730991728256,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eba Madencilik, Nero picasso- Nero Galaxy."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.93574393274272,
+          38.16236869466988,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Turan Zengin, Toros siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.26290870764423,
+          36.76204551887367,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arı madencilik, Amanos black ( Diva Black)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.82356946134148,
+          37.89910456083646,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer mermer, Okyanus."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.64890698673452,
+          38.55866245411303,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özfatih mermer, Akşehir siyah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73314046472984,
+          40.08960311549107,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kaptan mermer, Black star-Silver star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.21814056662569,
+          36.59189001490441,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Davut mermer, Alexandrette black-Bruno perla-Oro venato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.88221304228769,
+          38.32907353134661,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karabacak madencilik, Teos ateşi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.20340050799217,
+          38.59279748331091,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başağaç"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7575992501053,
+          38.19212589913234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özer madencilik, Toros siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49767865971038,
+          40.93476916319752,
+          0
+        ]
+      },
+      "properties": {
+        "name": "General mermer, Black Magic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.19525024990897,
+          39.09532885653982,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kütahya siyah, Uğur mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4350865290081,
+          36.184036971382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Golden night"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.02540990759055,
+          36.10827372903361,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başkanlar madencilik (Ensar mermer),  Black swan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.98842908276282,
+          38.46020122788789,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başaranlar mermer, Silver black"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50775678723069,
+          39.62110538688063,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Temmer mermer, Jaguar."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.03790424979,
+          39.90551234539374,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Altınsoy madencilik, Adranos black"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.77925640828641,
+          39.79875950303752,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özmersan mermer, Irish Black"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.08924900502133,
+          37.31139039885659,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kar maden,  Karaöz Siyah-Nero Medic-Ege Siyah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.33928066750326,
+          37.4334141381697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ayhan mermer, Ayhan siyah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.47324625986692,
+          40.27837496212742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karacabey siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.47785107030235,
+          40.27431628909703,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çiftyıldız Karacabey siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.64709103894651,
+          38.55992034239577,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer mermer, Akşehir siyah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.62168067549722,
+          38.55720983150339,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gürel mermer, Akşehir siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6386116871346,
+          38.56008438861164,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Reisisoğlu mermer, Akşehir siyah (Terk)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7269571800993,
+          37.42941061521495,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SMM mermer, Absolute black"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.39162156908679,
+          40.0712616325478,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emre black"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.02745725400876,
+          38.11207996723057,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arslanlar marble, Silver river-Armoni-Brown armoni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.62113957377171,
+          39.72702684046588,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ravini mermer, Ravini shadow."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.48254037345225,
+          40.27953548856567,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karacabey Siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50493915171842,
+          40.93593538884333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adataş madencilik, Midnight"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.36553719380719,
+          38.1677444351859,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alacakaya mermer, Siyah inci"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.13811896344171,
+          40.07949057584423,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nesa mermer, Spider grey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.30981470525494,
+          37.28920787111203,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ermaş yeni siyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.89562972442979,
+          37.00915760596618,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ermaş mermer, Sandras grey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.00364568770277,
+          39.14647408609837,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marfam madencilik, Marfam silver-Titanium grey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61662108612069,
+          39.72148266415025,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05719167437963,
+          39.94335313039571,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Canel mermer, Carresi nero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61337177055464,
+          39.71425571870508,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.74386201128368,
+          37.58322491874982,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eyüpoğlu mermer (Eymer), Eymer siyah mermer."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71273694510938,
+          40.09471498213715,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kaptan mermer, Black star-Silver star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99113433554176,
+          39.15594476651815,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.98517680539657,
+          39.14531822429283,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71465530292279,
+          40.08891540741073,
+          0
+        ]
+      },
+      "properties": {}
+    }
+  ]
+}

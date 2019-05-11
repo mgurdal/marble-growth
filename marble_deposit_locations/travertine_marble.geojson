@@ -1,0 +1,4981 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26310092768147,
+          38.97779343311946,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emek mermer, Silver traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.74822286481058,
+          37.32652748423163,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.75894309231985,
+          37.51664125778006,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Teknomer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.21121775033909,
+          39.3156513688769,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ERK marble (TTM marble), Valencia-Autumn-Sadona-Brown river traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.76854793428616,
+          37.51606582083983,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.17693749987285,
+          36.84552692726467,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.17811133156162,
+          36.8486893165511,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.65431899009314,
+          37.13106205171294,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.57424853895023,
+          37.27352857438572,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58079391515283,
+          36.67220400701669,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58850714619805,
+          36.67843141615437,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.00677279332425,
+          39.04899630275949,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Akdağ mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38767200675038,
+          37.81253046097377,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nasip mermer, Bella valencia-Tuscany rustic-Terrano."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0687717773677,
+          37.59216202149946,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.06116249466908,
+          37.60349708267398,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.70972221996686,
+          38.43068174320626,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.23003945960584,
+          37.76014691431446,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.45678611431308,
+          37.09786913931827,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.75331739191886,
+          39.81810642990369,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.77967001627837,
+          39.79316389496555,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1986014089937,
+          37.74915798322266,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39462393145264,
+          37.89471525902543,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.77895388398643,
+          39.79908703890518,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.52952382356931,
+          41.15681760690255,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kütük"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39708720901957,
+          37.89773788141008,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39119411879759,
+          37.89273949738688,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5100883593002,
+          41.14812056722999,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.53089866244496,
+          41.16160937231523,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Güvenal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.09577398587569,
+          37.94532284380372,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.49410169441336,
+          39.59288275602758,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31675489730683,
+          37.81018059800864,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40798105269003,
+          40.27294681190259,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.20814390030224,
+          39.8733507994744,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.15449763701967,
+          39.48771386651253,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bilçağ-Besler"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.22326510828645,
+          39.86961942820676,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özmersan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.6216913984927,
+          39.42125134266122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bilçağ-Besler"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3712693284876,
+          38.79746365744084,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bilçağ kırmızı traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34267527055734,
+          37.86765520283245,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ece mermer, Denizli traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.04826275641364,
+          38.69567231002085,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aba Merm."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.85637159654989,
+          40.01871018328383,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Xanadu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78025102712901,
+          38.58465014564197,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mesta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65590633584518,
+          37.07070113927965,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege N.stone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05072474751668,
+          38.63210149180791,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.66651181958721,
+          37.07291108900913,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Teknomer (Emek mermer) Noçe traverten-Noche Toros."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.64602088405485,
+          37.06559359685097,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer, Demireller mermer, Noçe traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.21223042733292,
+          40.00853706295949,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3934430112523,
+          36.71688051149025,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ermaş mermer, noçe traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0815822796359,
+          38.77168609338924,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05473788857642,
+          38.69698518507487,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.65394789442881,
+          37.15465387230099,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6636919810927,
+          37.16012530230269,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Polmer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.17956330768244,
+          36.85562840666612,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Güvenilir Mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.16579510753512,
+          36.86936867148465,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.14336655495563,
+          36.85126039786553,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marmara metal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35307051063415,
+          37.86068938385329,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34851799899895,
+          37.85727495405304,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alimoğlu mermer, Light traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35697175370974,
+          37.86255773622285,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36191037383922,
+          37.85312310403602,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33991802380914,
+          37.86314136388512,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çakmaklar mermer,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36608819668655,
+          37.85547221223996,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DK traverten mermer, Denizli traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34551464235733,
+          37.86578738642623,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pınar mermer,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35807446969921,
+          37.85935468681385,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Şiray Madencilik,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31345539902631,
+          37.81982453558299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege traverten, Cascade white-Country-İvory osso."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35687685113718,
+          37.85458470831151,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35164133211209,
+          37.85756402231166,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34345116020137,
+          37.86200773382696,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Reisoğlu mermer, Denizli traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.19407493925636,
+          36.84065931661055,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.53401473375904,
+          37.14074226488888,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kadim mermer, Noçe traverten-Medium traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.79372476874409,
+          37.06472986665585,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Polmer stone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.67367194718263,
+          37.16282727847461,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Balmahmut mermer, Lamnos traverten-Linos traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.55281851603773,
+          37.129938282635,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kadim mermer, Noçe traverten-Medium traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.65701849526929,
+          37.15811630477922,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kartal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.64882229726796,
+          37.10568154249515,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61845541072413,
+          37.08875301785211,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.54784520316454,
+          40.12965986824439,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Antalya mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.09395067249892,
+          38.98889262012224,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emek Silver trav."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.65424946781776,
+          37.14260043279666,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62403220446779,
+          37.10608502631804,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61679743448005,
+          37.10631217840485,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.10999066378521,
+          38.984144347224,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer, Demireller mermer, Gümüş traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7203231747009,
+          38.36419399809481,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege Natural stone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1716945033688,
+          38.2701861340776,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Enkamer mermer,  sarı traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86437284309361,
+          39.53758124847447,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.56782058305089,
+          37.39997740955598,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.78292101350232,
+          37.32281217307571,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ali stone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8438342299882,
+          39.53533221201794,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.79688662261939,
+          37.31717919465363,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.77206784316048,
+          37.33074615797133,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ensar mermer, Medium-Noce traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.79535327431158,
+          37.32563106260533,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.77140141709537,
+          37.32618248630291,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.82948870541366,
+          39.53005405780692,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.65486459353304,
+          37.76052853727556,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85856212908374,
+          39.5361066606171,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.88236637048333,
+          39.51965936146993,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Canel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85818601958103,
+          39.53945524261012,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.17728111803591,
+          38.28540116285172,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.21168975540484,
+          38.3225758510423,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ekamer mermer, Sarı traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.22743414600312,
+          38.31715060245751,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.82983793055774,
+          39.57124956956118,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.18096500715589,
+          38.30877910762596,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34711397596265,
+          39.18950596202375,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.17154429261306,
+          38.2743519791313,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.22508643604149,
+          38.32004260499443,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34432120472988,
+          39.19047217956759,
+          0
+        ]
+      },
+      "properties": {
+        "name": "aezani antik trv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.11829351526372,
+          38.41877517059502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "İzba (oba) Madencilik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.09417729181973,
+          38.37043722076624,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73016568410955,
+          39.73844075893333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Turmer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.21622446719234,
+          39.31920497152645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beştaş sarı"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.33468774564493,
+          40.42622270010676,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Akın Global"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9683769295714,
+          39.21995806477447,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grasrose treverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45319162640417,
+          39.2335916510955,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aycan Traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.31253544551766,
+          40.4321920946965,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adorable"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.01685551891796,
+          39.88635402586411,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73105749816696,
+          39.76851184649931,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özmerter mermer, Sarı traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14420347355446,
+          39.85101136453448,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.18926581787633,
+          39.86025546038424,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tramertaş"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5423788303005,
+          40.14102350931866,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ulupınar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.70813170835951,
+          39.7533136889469,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özmerter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73635493643107,
+          39.77357922419111,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beta-mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71803270880449,
+          39.74259910650359,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Turmer M. sarı"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9615054525008,
+          39.25271697008367,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Perform M."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7284738055445,
+          39.74234453821016,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.72820887526163,
+          39.78484319857945,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96008882914494,
+          39.25719172009477,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Perform sarı"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73063289152984,
+          39.74411649712133,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73234504075968,
+          39.7783656901224,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.13041293887785,
+          39.86213238760269,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.18974672941908,
+          39.85974944389314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marmara metal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.17552443279519,
+          39.46484988369766,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.17495103319609,
+          39.85474265121507,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14716185443999,
+          39.85096857771267,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beta-mer travertine, Da vinci-Davinci silver- Beta mystic-Beta moonlight (light)- Beta groun coffee (noche)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.95816133206117,
+          39.30710145288737,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nurdal M."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35800506889492,
+          39.20187221602247,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25245880466762,
+          38.97211105752437,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orbay mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.96476160239491,
+          39.02541348145832,
+          0
+        ]
+      },
+      "properties": {
+        "name": "pink trv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.95851672255199,
+          39.01746423765784,
+          0
+        ]
+      },
+      "properties": {
+        "name": "flamingo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.06174480879775,
+          39.00788764204852,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26987239165457,
+          38.97703805422949,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Su mermer, Silver traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2100883663743,
+          38.98299306691066,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tuna mermer, Silver traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.11718868083836,
+          39.04618863928329,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer Demireller mermer, Afyon traverteni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.05864966450619,
+          39.02182907936759,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Taşcı mermer, Silver traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.06204502847776,
+          39.00408128868377,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çift yıldız"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26349196290171,
+          38.98116017700358,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Taşçı mermer, silver traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25937506104426,
+          38.97815238430322,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karamehmet mermer, Clasic silver traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.27168301494249,
+          38.97995727131136,
+          0
+        ]
+      },
+      "properties": {
+        "name": "İlçi mermer (İltaş), Silver traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35000659834592,
+          39.19397040297812,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.95533515445359,
+          39.01427474709254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orhan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36741684041233,
+          39.16696761948376,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.87860127938424,
+          39.52671174695459,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35222433890206,
+          39.18756490765568,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vezir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.76330677817035,
+          40.47097399434183,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.07623014240826,
+          39.48998648008529,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lahos trv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.62980878995676,
+          39.72901982150147,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yarmer madencilik)Yarstone light, Yarstone Medium, ve Yarstone Noche Travertenleri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46287429287164,
+          39.2272428435151,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45820191310131,
+          39.23010746193842,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.20519165845915,
+          39.87446732712741,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sivas Golden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14723267488115,
+          39.85268145379219,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.38575090631034,
+          38.70524184094296,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CVK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16810101834656,
+          39.84903092042838,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özmersan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1679187431543,
+          39.84577571722475,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34369164563131,
+          39.19034069924712,
+          0
+        ]
+      },
+      "properties": {
+        "name": "4 mevsim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73050561181098,
+          39.76541100921357,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45930408248953,
+          39.22650748078348,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.20235226665751,
+          39.87976579506223,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.90822395280794,
+          39.22543729497262,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.91350945367614,
+          39.22981951363208,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.16001635469341,
+          37.10515826631013,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.17214468379685,
+          37.1133352343595,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.68452917758906,
+          37.72107582111394,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Global"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.69520608065586,
+          37.70118571133344,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Global"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.19943877913524,
+          36.8460502164695,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Güvenilir mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.81534054400744,
+          37.83883686186007,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.81473913694893,
+          37.83664974448863,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32494724003237,
+          37.81751653380517,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.27918675414095,
+          37.80370471379564,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.28583485372229,
+          37.80604496402881,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.30329604313179,
+          37.82591716047043,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cinkaya Doğaltaş"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3023615323623,
+          37.8196094722219,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.38627528361495,
+          38.70031622640384,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.13875918113139,
+          36.85285244309699,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.72741547664559,
+          38.76875814281806,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nurdal mermer, Noçe traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.09882968665864,
+          37.94513318000605,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.09165393778233,
+          37.94810865234195,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alimoğlu mermer, Yellow traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.08933664872479,
+          37.95106956980646,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ece mermer,  Sarı traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.10150925563389,
+          37.94372459527106,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.10465488791015,
+          37.94629068929303,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76742646712603,
+          38.8939147638411,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elmad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.44653998559018,
+          38.63573290251565,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elmad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.99611271455031,
+          38.82889482643399,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Along"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9586213389943,
+          39.08194643189666,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.94418209528818,
+          39.07771775148993,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.12186286404278,
+          39.02414376060509,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65036368938349,
+          38.56004861440569,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özceren İbrahim maden, Noçe traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.41891184930778,
+          40.16892825698739,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özmersan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.41599180478995,
+          40.16686489782887,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.42500756132225,
+          40.17121375454482,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eminler granit mermer, Clasico seguro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.48110823886153,
+          39.61433941460209,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Köle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.48855859966862,
+          39.59724260588159,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55045843302482,
+          39.47937383490716,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Öztaş"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.41190060493253,
+          39.57820656028551,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Öztaş"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58379137555392,
+          37.26482856084008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kommersan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58191841972352,
+          37.25886156251659,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58799237038181,
+          37.2568394794819,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gül makine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58652731865706,
+          37.25841516643892,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.59787806961799,
+          37.2620270495075,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.65937909381132,
+          37.75833813562073,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.66942123515219,
+          37.75412271432791,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.57292994455371,
+          37.27069558689086,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.49995004624207,
+          37.2613994065994,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24461881804944,
+          39.7895072665107,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer, Demireller mermer,  Bakır traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.77487500006666,
+          37.51318434069559,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Atemer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75140932665427,
+          37.33850206985425,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başarırlar mermer, Bucak silver-Amazon traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.66306782958903,
+          37.493315437255,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Portsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.63132374173557,
+          37.48355406316027,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65817964829261,
+          37.50026574183234,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65296319095877,
+          37.49671969202549,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.67298566710469,
+          37.48824846071919,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6718528572943,
+          37.48029579654383,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.67813462804901,
+          37.47974359392538,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.64547442716373,
+          37.49531796566878,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.69381716094286,
+          37.5033283032949,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.68406876340461,
+          37.45088722210926,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.67773853464118,
+          37.45125858871275,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6974476581568,
+          37.45398750013853,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.02285828827165,
+          39.39065665993807,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aycan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.86405590591726,
+          40.01539280185017,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fimar (Kammer) mermer,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65898566006842,
+          37.55083719155456,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.64261082940374,
+          38.66105865821509,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emek mermer (Cantursa) Capadocia travertine."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.50093709991754,
+          38.47398623274078,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Er-mer (Doramar-Egemar maden), Walnut-Clasic light."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.56748480185967,
+          38.66855074287522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çeçen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.78915166948639,
+          37.32853436054162,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başarırlar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.66379377299016,
+          37.54801269946983,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.54809228490922,
+          38.65030917959754,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ege antik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.50636478607256,
+          41.14631376819958,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kütük"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.51445594345172,
+          41.14631574596699,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.19880995932615,
+          40.01416743030927,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gökyar mermer (Gökyar ocağı), Golden traverten-Golden tobacco-Golden primrose."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.20712334508852,
+          40.01312514346426,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gökyar mermer,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33486352754487,
+          37.88053432027774,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23007858502782,
+          40.01037959913072,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23909190699111,
+          40.01519790396245,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34053667181719,
+          37.8790969590487,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34402459092084,
+          37.87830663002545,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34365359172914,
+          37.87628649654122,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34842483101985,
+          37.87152355984405,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emek mermer, Classic travertine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34317660171396,
+          37.87379087699102,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.68557049373923,
+          37.08418055736924,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Özeller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32778973840141,
+          37.8822694653621,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33737598548859,
+          37.8697430525343,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SS Doğaltaş,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35495140257182,
+          37.87228523484767,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32896159913399,
+          37.87868683784571,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33619461455585,
+          37.87156875952147,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cinkaya doğaltaş,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32743773976583,
+          37.87325617616436,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34439423902842,
+          37.87060368502412,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3328265354545,
+          37.87615020890949,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33974779909891,
+          37.87572442879548,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36619514546307,
+          37.87018534891576,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3323518704484,
+          37.8657876786797,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tetik mermer,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32604916365187,
+          37.86958901962562,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37834990753023,
+          37.87275179327752,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kömürcüoğlu mermer traverten ocağı, Aspendos-Colarado-Dark ve Lightantioch-Miletos."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32954617921192,
+          37.86151785009415,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33381192592442,
+          37.87891513947864,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33503409145015,
+          37.87729590480573,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36066027279831,
+          37.87271151620673,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.92040924186174,
+          38.63678963895059,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Akdağ Kırmz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05806250965497,
+          38.61310992303735,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.25429354765325,
+          39.81327414758689,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Altınsoy madencilik, Kleos traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.21946021201025,
+          37.9169977698048,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.20797236640076,
+          37.91462274797782,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.20765165832343,
+          37.91694589579887,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.21371841790926,
+          37.91132653362396,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.38153279990127,
+          37.7402511700466,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kombassan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.38714589179985,
+          37.73948732942291,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.38552929085038,
+          37.7428318108831,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kapmer m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3870419198586,
+          37.73282605294351,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Atamer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.38931596592436,
+          37.73506411097517,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.11273626583039,
+          38.97987284118831,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karamehmet mermer, Fantastic silver traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.39085239887953,
+          37.73730732842238,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26960856145722,
+          39.0205728540456,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yörükbeyi Trav"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33747915954086,
+          37.86689345211909,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Faber mermer,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34133942188552,
+          37.86603273335819,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ece mermer, Denizli traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20049557102246,
+          39.30623243637446,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hürer Mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.30633926604996,
+          38.575003972319,
+          0
+        ]
+      },
+      "properties": {
+        "name": "İz ko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.45090493957303,
+          38.49537019925557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Örnek mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.45362344864155,
+          38.49940967148077,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40005530357777,
+          40.25175356816322,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Menekşe mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40170511736482,
+          40.25011518323171,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karmer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.39905061544777,
+          40.25128058405221,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40806129917419,
+          40.27330892445573,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.41689844231433,
+          40.26606617564602,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.13417256455142,
+          40.30836057725512,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.13441983333111,
+          40.31030331205477,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.08731384909699,
+          40.33178853299057,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.39434216631977,
+          40.39964465708744,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marbelina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.27719131348622,
+          38.59629544610577,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.12762459151477,
+          40.32986996473078,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Menekşe mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.49434179676252,
+          38.45935481963078,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.91887175359525,
+          38.69498417261562,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.22243303630501,
+          37.52378053338043,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Trabella"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92335491689607,
+          38.69695322644031,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5035751371506,
+          38.47681803978961,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.90636195501467,
+          38.00224188349161,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.91258883768414,
+          38.00477806790578,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85995490790021,
+          39.51679476100488,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86478891134464,
+          39.50616700154274,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.43722602347371,
+          38.67192490282796,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elmad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.43653767759273,
+          38.67614810650863,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.43971429433289,
+          38.67862357804153,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.44256451325245,
+          38.68022326715533,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.43229068916239,
+          38.67822730852598,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.54230410494207,
+          38.78039774304887,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.06430096009127,
+          38.61475584874141,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.06426404865197,
+          38.6120072230651,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.07191079027157,
+          38.60908289942073,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79928606021994,
+          38.58973051624465,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79576942690078,
+          38.59361152849697,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79678991915581,
+          38.59763285382334,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.80946552019129,
+          39.32887558548743,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Turan Bekişoğlu, Grano (light grey)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.58053683876274,
+          41.23676365549123,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çorum Kargı trv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.39137511179629,
+          40.39608104309678,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.56390671701824,
+          37.1267761858962,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61771242364009,
+          37.08593546050686,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6224239456991,
+          37.10072106046473,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61534359284715,
+          37.08519058605687,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.81637429982956,
+          40.02482764995124,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sina mermer madencilik, Light Travertten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66975959269089,
+          39.75597265447416,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Çevikler mermer, Sivas sarı traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81499978175225,
+          38.74606826117425,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nurdal silver"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61034810164337,
+          37.1104559926275,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61722737106599,
+          37.12461759917868,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61216502904082,
+          37.19487227979151,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.61406462881514,
+          37.19151825674673,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.59503344945598,
+          37.20144062796258,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.59306732804589,
+          37.19787193172324,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5875355847141,
+          37.19507811325534,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.59679395872774,
+          37.26470063262126,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.60767380887564,
+          40.43547698007424,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Güvencem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.14595036780759,
+          36.85329456369001,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.23266457054157,
+          36.82848337056036,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.22929789027465,
+          36.82763351697984,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.19727507614572,
+          36.8420963945274,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.50063084380533,
+          40.92556362829443,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Neka sarı trv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.49959681850672,
+          40.92723469053241,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.50338736671284,
+          40.92700785319133,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Antea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5053970953282,
+          40.92826864517055,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.59722268782571,
+          40.91247400668229,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.46403054365437,
+          40.23119515711368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eminler granit mermer,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.44794897107063,
+          40.23055966589898,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cemal Güven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66097431828133,
+          38.8785148914211,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6535290881061,
+          38.87566342490027,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.55143109734138,
+          40.15867254357072,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.83418800647378,
+          40.09031905079299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emmioğlu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.20673667727199,
+          40.0159983473941,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gökyar mermer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23808822309433,
+          40.01742595644998,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.61925044905392,
+          38.60080377915892,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Trabella stone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5877428247089,
+          40.31276937325061,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.60143716469688,
+          40.30985642889772,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.63570848105963,
+          39.40577059936287,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Türeks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.64142596779774,
+          39.40772459670987,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.55166613567576,
+          39.28342526767106,
+          0
+        ]
+      },
+      "properties": {
+        "name": "? Rocamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24514280109733,
+          40.46218374651276,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mirasol mdn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65448222042942,
+          37.55115329322852,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6544387317341,
+          37.55254021962315,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51199281236184,
+          38.32198116116965,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coşkun mdnc. traoniks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40433638412128,
+          37.69304422849451,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coşkun mdn noçe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8074376687537,
+          39.72224500836601,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Geomar beyaz trv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.23975904396782,
+          38.28830744127951,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7792559928003,
+          37.89787139080605,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adsız Yer İşareti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.70050445728704,
+          37.94210049995688,
+          0
+        ]
+      },
+      "properties": {
+        "name": "? Hürok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.69839651990992,
+          37.94730291688747,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.70804656554657,
+          37.95011758451926,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adsız Yer İşareti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.69371880051965,
+          37.9485184764144,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.50835797091036,
+          39.35118400676224,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hürok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.83954794606316,
+          38.35871897302096,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.84366345332025,
+          38.35979042474521,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.84987894995524,
+          38.3656759350227,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3310224666807,
+          37.86760725814476,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Biçici mermer, Denizli traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.84757124512747,
+          38.35993877259307,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.84050346044113,
+          38.35155105074222,
+          0
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35376930646511,
+          37.86443308756182,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Başaranlar mermer, Denizli traverten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3605788676002,
+          37.8566281482738,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer, Demireller mermer, Denizli traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33424841488536,
+          37.86717385128583,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Faber mermer 2,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33739434526057,
+          37.88326853966304,
+          0
+        ]
+      },
+      "properties": {
+        "name": "4T traverten ocağı,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.91863410870846,
+          37.99644317293943,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karamehmet mermer, Noce traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.27889580792321,
+          37.80754019471048,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Erdem mermer, Denizli Traverten (New york-London-Paris-Sydney-Dubai-Beijing-İstanbul)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26232187978909,
+          38.97943976658579,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Reisoğlu mermer, Silver traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2613020597527,
+          38.97629792225799,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orbay mermer, Silver traverten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.09305788862372,
+          38.99032600823813,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Demmer, Demireller mermer, Sarı traverten."
+      }
+    }
+  ]
+}
